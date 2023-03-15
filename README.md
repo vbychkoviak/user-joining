@@ -1,5 +1,5 @@
 # Description
-This is take home assignment for joining users to there aliases.
+This is take home assignment for joining users to their aliases.
 
 # Requirements
 `java` and `maven` should be installed. 
